@@ -1,7 +1,7 @@
 
 # Hi, I'm Moslem Al-Issa 👋
 
-### Computer Engineering Graduate | Software Development | Data Science & Analytics
+### Computer Engineer | Software Development | Data Science & Analytics
 
 I'm a Computer Engineering graduate from Al-Balqa Applied University, interested in building software, analyzing data, and exploring artificial intelligence.
 
